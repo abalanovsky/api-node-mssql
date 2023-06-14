@@ -1,0 +1,17 @@
+{
+  "dbName": "animals",
+  "dbConfig": {
+    "server": "localhost",
+    "options": {
+      "port": 1433,
+      "trustServerCertificate": true
+    },
+    "authentication": {
+      "type": "default",
+      "options": {
+        "userName": "user",
+        "password": "difficult*password"
+      }
+    }
+  }
+}

@@ -49,7 +49,7 @@ To run this project, you will need to set values for variables in config.json
 
 #### [Get] ping
 
-```http
+```
   GET /ping
 ```
 
@@ -57,7 +57,7 @@ Response: Dogshouseservice.Version1.0.1
 
 #### [Get] all items
 
-```http
+```
   GET /dogs
 ```
 
@@ -70,13 +70,13 @@ Response: Dogshouseservice.Version1.0.1
 
 *Example*
 
-```http
+```
   GET /dogs?attribute=name&order=desc&pageNumber=1&pageSize=2
 ```
 
 #### Create [post] item
 
-```http
+```
   POST /dog
 ```
 

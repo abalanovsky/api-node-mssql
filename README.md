@@ -94,5 +94,5 @@ Response: Dogshouseservice.Version1.0.1
 
 ## Author
 
-- [Artem Balanovskyi](www.linkedin.com/in/artem-balanovskyi-6547781a3) 
+- [Artem Balanovskyi](https://www.linkedin.com/in/artem-balanovskyi-6547781a3) 
 
